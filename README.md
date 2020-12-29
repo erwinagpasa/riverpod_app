@@ -1,17 +1,11 @@
-# riverpod_app
+**Little by little, a little becomes a lot...**
 
-A new Flutter project.
+[![](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=2U3RX3AMSYU9S)
 
-## Getting Started
+**Demo**
 
-This project is a starting point for a Flutter application.
+**Dependencies**
 
-A few resources to get you started if this is your first Flutter project:
+riverpod | https://riverpod.dev
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# riverpod_app
+**Build**
